@@ -52,6 +52,8 @@ Then, the server will be listening on `http://localhost:3440`.
 ## References
 
 -   https://go.dev
+-   https://pkg.go.dev/crypto/rand@go1.17.7
+-   https://pkg.go.dev/crypto/sha256@go1.17.7
 -   https://gofiber.io
 -   https://github.com/gofiber/fiber
 -   https://github.com/gofiber/jwt
