@@ -19,6 +19,12 @@ go get -u gorm.io/driver/sqlite
 
 This will install all the packages for GORM
 
+```Bash
+go get github.com/joho/godotenv
+```
+
+This will install all the packages for GoDotEnv
+
 To run this API, just type
 
 ```Bash
@@ -60,3 +66,4 @@ Then, the server will be listening on `http://localhost:3440`.
 -   https://gorm.io
 -   https://github.com/go-gorm/gorm
 -   https://github.com/cosmtrek/air
+-   https://github.com/joho/godotenv

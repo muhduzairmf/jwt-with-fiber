@@ -9,6 +9,7 @@ require (
 	github.com/golang-jwt/jwt/v4 v4.3.0 // indirect
 	github.com/jinzhu/inflection v1.0.0 // indirect
 	github.com/jinzhu/now v1.1.4 // indirect
+	github.com/joho/godotenv v1.4.0 // indirect
 	github.com/klauspost/compress v1.14.4 // indirect
 	github.com/mattn/go-sqlite3 v1.14.12 // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
